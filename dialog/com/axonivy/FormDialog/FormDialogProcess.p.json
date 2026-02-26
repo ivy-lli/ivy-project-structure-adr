@@ -1,0 +1,9 @@
+{
+  "$schema" : "https://json-schema.axonivy.com/14.0-dev/project/process.json",
+  "id" : "154A00644BB7C22B",
+  "kind" : "HTML_DIALOG",
+  "config" : {
+    "data" : "com.axonivy.FormDialog.FormDialogData"
+  },
+  "elements" : [ ]
+}
